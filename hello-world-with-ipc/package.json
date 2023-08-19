@@ -1,0 +1,14 @@
+{
+  "name": "hello-world-with-ipc",
+  "version": "1.0.0",
+  "description": "hello-world-with-ipc",
+  "main": "main.js",
+  "author": "lyh",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^26.0.0"
+  }
+}
