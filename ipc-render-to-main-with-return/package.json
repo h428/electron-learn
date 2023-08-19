@@ -1,0 +1,13 @@
+{
+  "name": "ipc-render-to-main-with-return",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "lyh",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^26.0.0"
+  }
+}
