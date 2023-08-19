@@ -1,0 +1,11 @@
+**/.idea
+**/node_modules
+**/target/
+**/target/**
+*.iml
+*.jar
+**/.mvn
+**/.mvn/
+**/.mvn/**
+**/mvnw
+**/mvnw.cmd
