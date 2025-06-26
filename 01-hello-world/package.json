@@ -11,5 +11,10 @@
   "description": "",
   "devDependencies": {
     "electron": "^34.5.8"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "electron"
+    ]
   }
 }
