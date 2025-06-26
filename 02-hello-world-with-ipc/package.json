@@ -9,9 +9,11 @@
     "start": "electron ."
   },
   "devDependencies": {
-    "electron": "^26.0.0"
+    "electron": "34.5.8"
   },
   "pnpm": {
-    "onlyBuiltDependencies": ["electron"]
+    "onlyBuiltDependencies": [
+      "electron"
+    ]
   }
 }
